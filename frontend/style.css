@@ -1,0 +1,28 @@
+body {
+  background-color: black;
+}
+
+.btn-black {
+  background-color: black;
+}
+
+.text-black {
+  color: black !important;
+}
+
+.logo {
+  font-size: 30px;
+  line-height: 30px;
+}
+
+.selected {
+  color: red;
+}
+
+.water-mark {
+  position: fixed;
+  bottom: 5px;
+  left: 50%;
+  transform: translate(-50%);
+  color: #ffffff20;
+}
